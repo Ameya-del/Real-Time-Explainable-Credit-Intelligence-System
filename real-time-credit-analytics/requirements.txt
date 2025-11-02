@@ -1,0 +1,17 @@
+# In: requirements.txt
+
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+fredapi
+newsapi-python
+python-dotenv
+psycopg2-binary
+scikit-learn
+joblib
+shap
+lightgbm
+nltk
+vaderSentiment
